@@ -2,7 +2,9 @@
 The goal for this project is wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
 
 
-![alt text](https://twitter.com/dog_rates/status/890240255349198849)
+![alt text](https://twitter.com/dog_rates/status/890240255349198849/photo/1)
+
+![myimage-alt-tag](https://twitter.com/dog_rates/status/890240255349198849/photo/1)
 
 
 
