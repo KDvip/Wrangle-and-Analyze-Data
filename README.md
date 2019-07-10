@@ -1,6 +1,11 @@
 # Wrangle-and-Analyze-Data
 The goal for this project is wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations.
 
+
+![alt text](https://twitter.com/dog_rates/status/890240255349198849)
+
+
+
 ## Wrangling Data
 All works approach wrangling process, which consists of: • Gathering data. • Assessing data. • Cleaning data Starting with gathering data from three different resources, then assessing these data that identify and categorize common data quality issues with data content and tidiness issues with data structure. Finally, cleaning data that have been addressed in the assessing stage after copying dataset to keep original dirty datasets save if need review later. After completed the wrangling process, merge theses clean datasets to master dataset.
 
